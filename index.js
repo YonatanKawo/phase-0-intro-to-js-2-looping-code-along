@@ -21,6 +21,4 @@ function countDown(posInt){
         debugger;
     }
 }
-countDown(10);
-
 
